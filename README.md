@@ -1,2 +1,7 @@
 # Movies-and-Series
-Movies and Series Web Application 
+
+Movies and Series Frontend Web Application
+
+HTML
+CSS
+JAVASCRİPT
