@@ -1,1 +1,39 @@
-bla bla bla
+* {
+    margin: auto;
+    padding: auto;
+    box-shadow: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+body {
+    background-color: black;
+}
+
+div {
+    background-color: springgreen;
+}
+
+.navbar {
+    color: white;
+    padding: 1.5rem;
+    text-decoration: underline;
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar ul {
+    list-style-type: square;
+}
+
+.navbar ul li:hover {
+    color: darkorange;
+    background: lightseagreen;
+}
+
+h1 {
+    background-color: darkgreen;
+}
